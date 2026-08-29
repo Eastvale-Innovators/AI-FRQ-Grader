@@ -639,7 +639,7 @@ const handleFileChange = async (e) => {
       <div className="fixed right-3 bottom-[4.5rem] z-[90] group">
         <button
           aria-label="2D in a 3D World"
-          onClick={() => router.push('/2d-in-3d-world')}
+          onClick={() => router.push('/2d-in-a-3d-world')}
           className="w-8 h-8 rounded-full bg-white/30 border border-white/20
               flex items-center justify-center opacity-40 hover:opacity-100
               transition-all duration-300 hover:scale-110 shadow-[0_0_8px_rgba(0,0,0,0.25)]"
